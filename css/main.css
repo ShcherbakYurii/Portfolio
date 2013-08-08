@@ -1,0 +1,241 @@
+body {
+margin:0 auto;
+background:url(../images/background.jpg) no-repeat;
+background-position: center top;
+font:12px/14px PT Sans, Arial,tahoma,Helvetica,sans-serif;
+color:#fff;
+}
+.container1 {
+    height: auto;
+    width: 960px;
+    margin: 0 auto;
+}
+.left_menu {
+    background:url(../images/left_menu.png) no-repeat;
+    height: 74px;
+    width: 5px;
+    margin-top: 15px;
+    float: left;
+}
+.right_menu {
+    background:url(../images/right_menu.png) no-repeat;
+    height: 74px;
+    width: 55px;
+    margin-top: 16px;
+    float: right;
+}
+.right_menu:hover {
+    background:url(../images/right_menu.png) no-repeat -55px 0px;
+    height: 74px;
+    width: 55px;
+    margin-top: 16px;
+    float: right;
+}
+.center_menu {
+    background:url(../images/center_menu.png) repeat-x;
+    height: 74px;
+    width: 900px;
+    margin-top: 16px;
+    float: left;
+}
+.shcherbak_menu {
+    font-size: 24px;
+    margin: 20px 0 0 60px;
+    line-height: 1.2;
+    color:#fff;
+    float: left;
+}
+.shcherbak_menu span {
+    font-size: 10px;
+    margin: 0 0 0 23px;
+    color: #bfbfbf;
+}
+.jobs_menu{
+    font-size: 18px;
+    margin: 23px 0 0 200px;
+    line-height: 1.2;
+    color:#fff;
+    float: left;
+}
+.jobs_menu1 {
+    font-size: 10px;
+    color: #bfbfbf;
+}
+.jobs_menu2 {
+    margin-left: 28px;
+}
+.profail_menu{
+    font-size: 18px;
+    margin: 23px 0 0 60px;
+    line-height: 1.2;
+    color:#fff;
+    float: left;
+}
+.profail_menu1 {
+    font-size: 10px;
+    color: #bfbfbf;
+    margin: 0 0 0 12px;
+}
+.contacs_menu{
+    font-size: 18px;
+    margin: 23px 0 0 60px;
+    line-height: 1.2;
+    color:#fff;
+    float: left;
+}
+.contacs_menu1 {
+    font-size: 10px;
+    color: #bfbfbf;
+}
+.contacs_menu2 {
+    margin-left: 8px;
+}
+.podshapka_ps {
+    height: 62px;
+}
+.podshapka {
+    height: 100px;
+}
+.text_podshapka {
+  font-size: 18px;
+  color: rgb( 44, 44, 44 );
+  font-style: italic;
+  text-align: left;
+  line-height: 1.2;
+  margin-left: 35px;
+  float: left;
+}
+.sites_podshapka{
+    margin: 8px 0 0 80px;
+    float: left;
+    background:url(../images/sites.png) no-repeat;
+    height: 88px;
+    width: 88px;
+}
+.sites_podshapka:hover {
+    background:url(../images/sites.png) no-repeat -88px 0px;
+}
+.verstka_podshapka{
+    margin: 8px 0 0 60px;
+    float: left;
+    background:url(../images/html.png) no-repeat;
+    height: 88px;
+    width: 88px;
+}
+.verstka_podshapka:hover {
+    background:url(../images/html.png) no-repeat -88px 0px;
+}
+.apps_podshapka{
+    margin: 8px 0 0 60px;
+    float: left;
+    background:url(../images/apps.png) no-repeat;
+    height: 88px;
+    width: 88px;
+}
+.apps_podshapka:hover {
+    background:url(../images/apps.png) no-repeat -88px 0px;
+}
+.left_menu_bottom {
+    background:url(../images/left_menu_bottom.png) no-repeat;
+    height: 91px;
+    width: 9px;
+    float: left;
+}
+.right_menu_bottom {
+    background:url(../images/right_menu_bottom.png) no-repeat;
+    height: 91px;
+    width: 9px;
+    float: right;
+}
+.center_menu_bottom {
+    background:url(../images/center_menu_bottom.png) repeat-x;
+    height: 91px;
+    width: 942px;
+    float: left;
+}
+.line {
+    background:url(../images/line.png) no-repeat;
+    height: 91px;
+    width: 2px;
+    float: left;
+}
+.lev_c_m_b {
+    float: left;
+    width: 294px;
+    height: 91px;
+    font-size: 18px;
+    line-height: 1.2;
+    margin: 12px;
+}
+.c_c_m_b {
+    float: left;
+    width: 222px;
+    height: 91px;
+}
+.f_c_c_m_b{
+    font-size: 18px;
+    font-style: italic;
+    margin: 12px 0px 12px 26px
+}
+.facebook{
+    background:url(../images/facebook.jpg) no-repeat;
+    width: 41px;
+    height: 41px;
+    float: left;
+    margin-left: 40px;
+}
+.behance {
+    background:url(../images/behance.jpg) no-repeat;
+    width: 41px;
+    height: 41px;
+    float: left;
+    margin-left: 8px;
+    margin-right: 8px;
+}
+.twiter {
+    background:url(../images/twiter.jpg) no-repeat;
+    width: 43px;
+    height: 42px;
+    float: left;
+}
+.r_c_m_b {
+    float: left;
+    width: 398px;
+    height: 91px;
+}
+.f_r_c_m_b{
+    font-size: 14px;
+    margin: 28px 0px 12px 16px
+}
+.left_menu_prof {
+    background:url(../images/prof_left.png) no-repeat;
+    height: 473px;
+    width: 5px;
+    float: left;
+}
+.right_menu_prof {
+    background:url(../images/prof_right.png) no-repeat;
+    height: 473px;
+    width: 5px;
+    float: right;
+}
+.center_menu_prof {
+    background:url(../images/prof_center.png) repeat-x;
+    height: 473px;
+    width: 942px;
+    float: left;
+    font-style: italic;
+    font-size: 18px;
+    line-height: 1.2;
+}
+.menu_contable{
+    font-style: italic;
+    font-size: 18px;
+    line-height: 1.2;
+    color: rgb( 44, 44, 44 );
+}
+.cont_sit a {
+    position: relative;
+    top: 120px;
+    left: 540px;
+}
